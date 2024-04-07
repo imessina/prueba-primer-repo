@@ -1,0 +1,17 @@
+
+header{
+    background: rgb(24, 210, 243);
+    height: 200px;
+    width: 100%;
+
+}
+body{
+    background: rgb(3, 0, 8);
+    font-family:sans-serif ;}
+
+.cajas{
+    background-color: yellow;
+    width:1100px ;
+    margin: 0px auto;
+
+}
